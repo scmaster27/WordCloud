@@ -1,7 +1,6 @@
 'use strict'
 const path = require('path');
 
-// 소스 폴더 안에 있는 main.js가 엔트리포인트가 되고
 module.exports = {
     entry: {
         main: ['./src/main.js']
